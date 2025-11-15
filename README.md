@@ -13,7 +13,7 @@ With a solid foundation in full stack development, DevOps, and distributed syste
 ## 💼 What I Do
 
 - Architect and lead enterprise-grade applications using modern Java and Angular stacks  
-- Build scalable data ingestion platforms with real-time processing pipelines  
+- Build scalable data ingestion platforms with near about real-time processing pipelines  
 - Automate infrastructure and deploy microservices using Docker & Kubernetes  
 - Lead engineering teams, mentor juniors, and conduct technical interviews  
 - Stay ahead with evolving tech trends and foster innovation through R&D
